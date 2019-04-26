@@ -74,3 +74,4 @@ xmpp.jp
 yax.im
 yourdata.forsale
 zloy.im
+forcrypt.org
