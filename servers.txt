@@ -65,6 +65,7 @@ otr.im
 quicksy.im
 pimux.de
 riseup.net
+server.gg
 sj.ms
 skynetcloud.site
 snopyta.org
