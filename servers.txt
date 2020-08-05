@@ -12,6 +12,7 @@ anonym.im
 anoxinon.me
 blabber.im
 blah.im
+captflint.com
 chapril.org
 chat.savali.me
 chat.sum7.eu
@@ -24,6 +25,7 @@ diasporing.ch
 dismail.de
 disroot.org
 draugr.de
+fido.odessa.ua
 gnu.gr
 jabb.im
 jabber.at
