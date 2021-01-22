@@ -70,6 +70,7 @@ quicksy.im
 parloteo.es
 pimux.de
 riseup.net
+server.gg
 sj.ms
 snopyta.org
 suchat.org
